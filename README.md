@@ -1,4 +1,3 @@
-```markdown
 # BioFunc-SP: Dashboard IA para Predição Ecológica e Nexo Água-Saúde 💧🔬
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19931824.svg)](https://doi.org/10.5281/zenodo.19931824)
@@ -80,5 +79,3 @@ Se você utilizar este software ou parte de seu código em sua pesquisa, por fav
 ## ⚖️ Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
-
