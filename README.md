@@ -14,7 +14,7 @@ O **BioFunc-SP** é uma aplicação web desenvolvida em R/Shiny focada no monito
 
 Idealizado como uma ferramenta de apoio à tomada de decisão para gestores ambientais e uma plataforma de pesquisa avançada, o dashboard traduz matrizes complexas de dados ecológicos em diagnósticos visuais, enquadramentos legais (CONAMA 357/2005) e, de forma inovadora, calcula o impacto socioeconômico da qualidade da água na saúde pública (Doenças Diarreicas Agudas - DDA) e nos custos de tratamento.
 
-**Autor:** Dr. Gabriel Feloni Martins do Rosário  
+**Autores:** Dr. Gabriel Feloni Martins do Rosário, Dra. Daiane Raimundo de Barros e Me. Rafael Caracho
 **Instituição Vinculada:** Universidade de São Paulo (USP) - *Proposta em desenvolvimento*
 
 ## 🚀 Funcionalidades Principais
