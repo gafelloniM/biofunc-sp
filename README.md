@@ -71,7 +71,7 @@ Para o pleno funcionamento das predições, o sistema espera um *data frame* com
 - [ ] Padronização tipográfica nas saídas gráficas estatísticas (garantir que as etiquetas da PCA plotem as variâncias estritamente como **R²**, e não R2 ou r2).
 - [ ] Implementação de upload reativo de arquivos `.csv` pelo próprio usuário.
 
-## 📜 Citação
+### 📜 Citação
 
 Se você utilizar este software ou parte de seu código em sua pesquisa, por favor, cite da seguinte forma:
 
@@ -82,4 +82,3 @@ Se você utilizar este software ou parte de seu código em sua pesquisa, por fav
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 ```
 
-Após colar isso no seu RStudio, é só salvar, fazer o **Commit** e depois o **Push** para enviar para o GitHub!
